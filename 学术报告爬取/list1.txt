@@ -1,0 +1,178 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>信息安全国家重点实验室</title><title>学术报告：Cryptography from Lattices----信工所信息安全国家重点实验室</title><link href="../../../images/web.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table border="0" width="1000" class="tab0" align="center" cellpadding="0" cellspacing="0">
+<tr><td align="left" valign="top">
+<table width="1000" class="tab" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+    <td height="213" align="left" valign="top">
+		<table width="1000" class="tab2" border="0" height="213" cellspacing="0" cellpadding="0">
+			<tr>
+				<td height="40" align="left" valign="bottom">
+					<table width="1000" class="nav" border="0" cellspacing="0" cellpadding="0">
+						<tr>  
+							<td align="center" valign="top" width="25">&nbsp;</td>
+							<td align="center" valign="top"><a href="http://sklois.iie.cas.cn" target="_top">首页</a></td>
+							<td align="center" valign="top">|</td>
+							<td align="center" valign="top"><a href="http://www.sklois.cn/sysgk/" target="_top">实验室概况</a></td>
+							<td align="center" valign="top">|</td>
+							<td align="center" valign="top"><a  href="http://www.sklois.cn/yjdw/" target="_top">研究队伍</a></td>
+							<td align="center" valign="top">|</td>
+							<td align="center" valign="top"><a  href="http://www.sklois.cn/xwdt/" target="_top">新闻动态</a></td>
+							<td align="center" valign="top">|</td>
+							<td align="center" valign="top"><a  href="http://www.sklois.cn/tzgg/" target="_top">通知公告</a></td>
+							<td align="center" valign="top">|</td>
+							<td align="center" valign="top"><a  href="http://www.sklois.cn/kycg2/" target="_top">科研成果</a></td>
+							<td align="center" valign="top">|</td>
+							<td align="center" valign="top"><a href="http://www.sklois.cn/kfkt/" target="_top">开放交流</a></td>
+							<td align="center" valign="top">|</td>
+							<td align="center" valign="top"><a href="http://www.sklois.cn/zsxx/" target="_top">招生信息</a></td>
+							<td align="center" valign="top">|</td>
+							<td align="center" valign="top"><a  href="http://www.sklois.cn/xshd/" target="_top">学术活动</a></td>
+							<td align="center" valign="top">|</td>
+							<td align="center" valign="top"><a  href="http://www.sklois.cn/lxwm/" target="_top">联系我们</a></td>
+							<td align="center" valign="top" width="20">&nbsp;</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+		<table width="980" border="0" bgcolor="#ffffff" align="center" cellpadding="0" cellspacing="0">
+			<tr>
+				<td width="261" align="left" valign="top">
+					<table width="261" class="left_tab01" border="0" cellspacing="0" cellpadding="0">
+					  <tr class="left_bg">
+						<td align="left" valign="top">
+							<h1>通知公告</h1>
+							<ul class="left_znzh">
+							   
+ 								<li><a href="../"><img src="../../../images/01.gif" />通知公告</a></li>
+								
+ 								<li><a href="../../zpxx/"><img src="../../../images/01.gif" />招聘信息</a></li>
+								
+							</ul>
+						</td>
+					  </tr>
+					  <tr class="left_bg01">
+						<td align="left" height="7" valign="top"></td>
+					  </tr>
+					</table>
+				</td>
+				<td align="center" valign="top">
+					<table width="719" border="0" align="center" cellpadding="0" cellspacing="0" class="gailan">
+						<tr>
+						<td width="20"></td>
+						<td align="left" class="dangqian" valign="top" height="46">
+							您现在的位置:<a href="../../../" class="CurrChnlCls">首页</a>&nbsp;&gt;&nbsp;<a href="../../" class="CurrChnlCls">通知公告</a>&nbsp;&gt;&nbsp;<a href="../" class="CurrChnlCls">通知公告</a>
+						</td></tr> 
+					</table>
+					<table width="719" border="0" align="center" cellpadding="0" cellspacing="0" class="gailan_bg">
+						<tr>
+							<td align="left" width="719" valign="top">
+								<table width="719" border="0" cellspacing="0" cellpadding="0">
+									<tr>
+										<td width="4" valign="top"></td>
+										<td width="715" valign="top"><table width="578" height="17" border="0" align="center" cellpadding="0" cellspacing="0">
+										  <tr>
+										    <td width="578" height="30" align="center" class="lan_15">学术报告：Cryptography from Lattices</td>
+									      </tr>
+										  </table>
+                                          <table width="96%" border="0" align="center" cellpadding="0" cellspacing="0" style="border-bottom:1px #9e9e9e dotted; margin-bottom:8px;">
+                                            <tbody>
+                                              <tr>
+                                                <td>&nbsp;</td>
+                                              </tr>
+                                            </tbody>
+                                          </table>
+                                          <table width="86%" border="0" align="center" cellpadding="0" cellspacing="0" style="margin-top:15px; margin-bottom:15px; margin-left:15px; margin-right:15px;">
+                                            <tr>
+                                              <td class="nrhei"><div class=TRS_Editor><p align="justify">题目：Cryptography from Lattices</p>
+<p align="justify">报告人：Prof. Phong Nguyen (INRIA, France and Tsinghua University, China)</p>
+<p align="justify">摘要：</p>
+<p align="justify">In the past fifteen years, lattice-based cryptography has emerged as an interesting alternative to "classical" public-key cryptography based on integer factoring or discrete logarithm. In this talk, we survey the main lattice-based cryptographic constructions, highlighting the differences and similarities with "classical" constructions.</p>
+<p align="justify">报告人简介：</p>
+<p align="justify">Phong Nguyen obtained his PhD in 1999, and has been a research director at INRIA since 2008, and a guest professor at Tsinghua University since Fall 2011. His main expertise is public-key cryptanalysis and algorithmic number theory, including lattice algorithms and their applications. He received the Best Paper Award at EUROCRYPT '06, the ERCIM Cor Baayen Award in 2001, and has published 18 articles at CRYPTO/EUROCRYPT. He is associate editor of the Journal of Cryptology and the Journal of Mathematical Cryptology, and regularly participates to the Program Committees of CRYPTO, EUROCRYPT and ASIACRYPT: he was invited speaker at EUROCRYPT'11, and will serve as program co-chair of EUROCRYPT '13 and EUROCRYPT '14.</p>
+&nbsp;
+<p align="justify">&nbsp;</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">时间：2012年6月18日(星期一) 下午 1:30-3：30</p>
+<p align="justify">地点：中国科学院信息工程研究所3号楼3301室</p></div></td>
+                                            </tr>
+<tr>
+											   <td id="kongge"><table width="100%" cellpadding="0" cellspacing="0" border="0" id="appendix" style="display:none">
+		  	<tr>
+				<td>附件下载：</td>
+			</tr>
+			<tr>
+				<td>
+					<table width="98%" cellpadding="0" cellspacing="0" border="0" align="center">
+					<tr>
+						<td style="padding-left:10px"></td>
+					</tr>
+					</table>				</td>
+			</tr>	
+		  </table>		  </td>
+           <script type="text/javascript">
+        var appendix = '';
+        if (appendix != '') {
+			          document.getElementById("appendix").style.display = 'block';
+		          }else{
+			          document.getElementById("kongge").innerHTML = '&nbsp;'; 
+        }
+
+        </script>
+											  </tr>
+                                        </table></td> 
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</td>
+  </tr>
+  <tr bgcolor="#e4f0f7">
+    <td height="8" align="left" bgcolor="#e4f0f7" valign="top"></td>
+  </tr>
+  <tr bgcolor="#387fc6">
+    <td height="3" align="left" bgcolor="#387fc6" valign="top"></td>
+  </tr>
+  <tr bgcolor="#54b4f0">
+    <td height="3" align="left" bgcolor="#54b4f0" valign="top"></td>
+  </tr>
+ <table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="2" bgcolor="#059fd7"></td>
+  </tr>
+  <tr>
+    <td height="84" background="http://www.iie.cas.cn/images/iie_foot.gif"><table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="26%" align="center"><a href="http://www.cas.cn/" target="_blank"><img src="http://www.iie.cas.cn/images/iie_cas.gif" width="205" height="48" border="0" /></a></td>
+        <td width="74%" class="lan">版权所有 &copy; 中国科学院信息工程研究所信息安全国家重点实验室	  备案序号：<a href="//beian.miit.gov.cn/" target="_blank">京ICP备12047326-1号</a> <br />
+	      电话：010-82546611	 传真：010-82546564<br />
+	      地址：北京市海淀区闵庄路甲89号  100093 <br /></td>
+	    </tr>
+	  </table></td>
+  </tr>
+</table>
+</td></tr></table>
+</body>
+</html>
